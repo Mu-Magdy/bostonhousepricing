@@ -20,3 +20,8 @@ Install requirements
 ```
 pip install -r requirements.txt
 ```
+
+
+#### New Skills accquired
+1. Deployment with heroku 
+2. Deployment with github actions
